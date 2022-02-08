@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Wallpaper Crousel  */
+.carousel-item img{
+    width: 100vw;
+    height: 92vh;
+  opacity: 0.9;
+    
+}
+.carousel-caption h2 {
+color: rgb(217, 255, 0);
+font-weight: bold;
+font-size: 3rem;
+
+}
+.carousel-caption p{
+    color: white;
+    font-size: 1.3rem;
+}
